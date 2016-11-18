@@ -1,0 +1,158 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.balchcreative.com" resolutions="1x,2x" timestamp="1479494838713">
+  <folder name="css">
+    <file name="site_global.css" crc="205954113"/>
+    <file name="index.css" crc="4253679407" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="balch-pages-final.pdf" crc="391187670" seo="true" mt="1478920995000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="lineas-web.jpg" crc="532996605" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="lineas-web2.jpg" crc="3824504701" seo="true" ref="index"/>
+    <file name="lineas-web.png" crc="3805352666" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="pointerb.png" crc="3780694765" seo="true" ref="index"/>
+    <file name="u1291.png" crc="498032927" ref="index"/>
+    <file name="u1291_2x.png" crc="3886654626" ref="index"/>
+    <file name="u1291-r.png" crc="4015331074" ref="index"/>
+    <file name="u1291-r_2x.png" crc="3848746549" ref="index"/>
+    <file name="u1287.png" crc="4089456124" ref="index"/>
+    <file name="u1287_2x.png" crc="147397527" ref="index"/>
+    <file name="u1287-r.png" crc="280583080" ref="index"/>
+    <file name="u1287-r_2x.png" crc="185002710" ref="index"/>
+    <file name="u1281.png" crc="284301227" ref="index"/>
+    <file name="u1281_2x.png" crc="263791795" ref="index"/>
+    <file name="u1281-r.png" crc="4254430670" ref="index"/>
+    <file name="u1281-r_2x.png" crc="4218749048" ref="index"/>
+    <file name="u1295.png" crc="417963478" ref="index"/>
+    <file name="u1295_2x.png" crc="4269956500" ref="index"/>
+    <file name="u1295-r.png" crc="4195835425" ref="index"/>
+    <file name="u1295-r_2x.png" crc="3923769192" ref="index"/>
+    <file name="balch-circle.png" crc="450272929" seo="true" ref="index"/>
+    <file name="balch-circle_2x.png" crc="268408849" seo="true" ref="index"/>
+    <file name="beach picture.jpg" crc="4154274654" ref="index"/>
+    <file name="u1562-6.png" crc="4217311613" ref="index"/>
+    <file name="u1562-6_2x.png" crc="4137686693" ref="index"/>
+    <file name="u1580.png" crc="142548378" ref="index"/>
+    <file name="u1580_2x.png" crc="479212062" ref="index"/>
+    <file name="u1580-r.png" crc="3956238798" ref="index"/>
+    <file name="u1580-r_2x.png" crc="4183913504" ref="index"/>
+    <file name="u1583-4.png" crc="3839201927" ref="index"/>
+    <file name="u1583-4_2x.png" crc="3929540906" ref="index"/>
+    <file name="u2035-5.png" crc="3957885772" ref="index"/>
+    <file name="u2035-5_2x.png" crc="4001430274" ref="index"/>
+    <file name="u2039-4.png" crc="144902946" ref="index"/>
+    <file name="u2039-4_2x.png" crc="2208694" ref="index"/>
+    <file name="u2045-4.png" crc="513767998" ref="index"/>
+    <file name="u2045-4_2x.png" crc="4292592858" ref="index"/>
+    <file name="spiral.png" crc="4216898001" seo="true" ref="index"/>
+    <file name="spiral-2.png" crc="265453870" seo="true" ref="index"/>
+    <file name="spiral-2_2x.png" crc="475606891" seo="true" ref="index"/>
+    <file name="screen shot 2016-11-16 at 105321 pm.jpg" crc="100895345" ref="index"/>
+    <file name="spiral317x301.png" crc="248630943" seo="true" ref="index"/>
+    <file name="spiral317x301_2x.png" crc="307901315" seo="true" ref="index"/>
+    <file name="u2183-4.png" crc="170281583" ref="index"/>
+    <file name="u2183-4_2x.png" crc="27323902" ref="index"/>
+    <file name="brand.png" crc="4227011261" ref="index"/>
+    <file name="brand_2x.png" crc="501080711" ref="index"/>
+    <file name="creative-ideas-dubai-700x450.jpg" crc="3907856013" ref="index"/>
+    <file name="creative-ideas-dubai-700x450_2x.jpg" crc="4052149490" ref="index"/>
+    <file name="beautiful-brochure-design-ideas-for-inspiration-1.jpg" crc="100759107" ref="index"/>
+    <file name="beautiful-brochure-design-ideas-for-inspiration-1_2x.jpg" crc="337118110" ref="index"/>
+    <file name="u2131-4.png" crc="71127080" ref="index"/>
+    <file name="u2131-4_2x.png" crc="3889531446" ref="index"/>
+    <file name="u2141-4.png" crc="389397687" ref="index"/>
+    <file name="u2141-4_2x.png" crc="3952623453" ref="index"/>
+    <file name="u2162-4.png" crc="41766565" ref="index"/>
+    <file name="u2162-4_2x.png" crc="13179221" ref="index"/>
+    <file name="responsive-web-design-agency-bath-london.jpg" crc="33946494" ref="index"/>
+    <file name="responsive-web-design-agency-bath-london_2x.jpg" crc="4130376126" ref="index"/>
+    <file name="makai-girls-tags.png" crc="3914365983" ref="index"/>
+    <file name="makai-girls-tags_2x.png" crc="455377192" ref="index"/>
+    <file name="colorful-magazine-layout.jpg" crc="329577658" ref="index"/>
+    <file name="colorful-magazine-layout_2x.jpg" crc="132564048" ref="index"/>
+    <file name="u2180-4.png" crc="4062804083" ref="index"/>
+    <file name="u2180-4_2x.png" crc="4290582279" ref="index"/>
+    <file name="u2168-4.png" crc="4022275704" ref="index"/>
+    <file name="u2168-4_2x.png" crc="3931866044" ref="index"/>
+    <file name="u2147-4.png" crc="3857695201" ref="index"/>
+    <file name="u2147-4_2x.png" crc="3933209012" ref="index"/>
+    <file name="u2447-5.png" crc="4094155864" ref="index"/>
+    <file name="u2447-5_2x.png" crc="20162568" ref="index"/>
+    <file name="makai-girls-white-logo.png" crc="165865630" ref="index"/>
+    <file name="iwarehouse.jpg" crc="482407875" ref="index"/>
+    <file name="iwarehouse_2x.jpg" crc="22107041" ref="index"/>
+    <file name="screen shot 2016-11-18 at 123251 pm.jpg" crc="510316349" ref="index"/>
+    <file name="screen shot 2016-11-18 at 123251 pm_2x.jpg" crc="118376960" ref="index"/>
+    <file name="u5197-4.png" crc="3790461603" ref="index"/>
+    <file name="u5197-4_2x.png" crc="125162475" ref="index"/>
+    <file name="studiomatcha-u5080-fr.png" crc="3943435541" ref="index"/>
+    <file name="studiomatcha-u5080-fr_2x.png" crc="491738684" ref="index"/>
+    <file name="destination-taco-1.png" crc="288082556" ref="index"/>
+    <file name="lil bloomers final-04.jpg" crc="504632561" ref="index"/>
+    <file name="lil bloomers final-04_2x.jpg" crc="44924801" ref="index"/>
+    <file name="screen shot 2016-11-18 at 124036 pm.jpg" crc="427406092" ref="index"/>
+    <file name="screen shot 2016-11-18 at 124036 pm_2x.jpg" crc="215285989" ref="index"/>
+    <file name="montalto logo-08.jpg" crc="3867986751" ref="index"/>
+    <file name="screen shot 2016-11-18 at 124229 pm.jpg" crc="216552936" ref="index"/>
+    <file name="u5398-4.png" crc="124658306" ref="index"/>
+    <file name="u5398-4_2x.png" crc="4141989998" ref="index"/>
+    <file name="magazine lokai.png" crc="419614488" ref="index"/>
+    <file name="magazine lokai_2x.png" crc="4184654964" ref="index"/>
+    <file name="refreshers-billboard.jpg" crc="105070368" ref="index"/>
+    <file name="refreshers-billboard_2x.jpg" crc="4060855705" ref="index"/>
+    <file name="packaging mr -mrs .jpg" crc="285797547" ref="index"/>
+    <file name="packaging mr -mrs _2x.jpg" crc="166285749" ref="index"/>
+    <file name="refreshers stop.jpg" crc="408036459" ref="index"/>
+    <file name="refreshers stop_2x.jpg" crc="289412412" ref="index"/>
+    <file name="yes white.jpg" crc="4040310733" ref="index"/>
+    <file name="yes white_2x.jpg" crc="4006922520" ref="index"/>
+    <file name="screen shot 2016-11-18 at 13518 pm.jpg" crc="3875113464" ref="index"/>
+    <file name="screen shot 2016-11-18 at 13518 pm_2x.jpg" crc="355121938" ref="index"/>
+    <file name="u5222-4.png" crc="3962964202" ref="index"/>
+    <file name="u5222-4_2x.png" crc="282756706" ref="index"/>
+    <file name="screen shot 2016-11-18 at 124209 pm.jpg" crc="3925109762" ref="index"/>
+    <file name="screen shot 2016-11-18 at 10103 pm.jpg" crc="3937075427" ref="index"/>
+    <file name="screen shot 2016-11-18 at 10041 pm.jpg" crc="363027375" ref="index"/>
+    <file name="happy-skinny.jpg" crc="3761753389" ref="index"/>
+    <file name="happy-skinny_2x.jpg" crc="3900325347" ref="index"/>
+    <file name="screen shot 2016-11-18 at 10352 pm.jpg" crc="3949912582" ref="index"/>
+    <file name="screen shot 2016-11-18 at 10622 pm.jpg" crc="4289192639" ref="index"/>
+    <file name="screen shot 2016-11-18 at 10622 pm_2x.jpg" crc="4183364157" ref="index"/>
+    <file name="screen shot 2016-11-18 at 11034 pm.jpg" crc="4077685519" ref="index"/>
+    <file name="screen shot 2016-11-18 at 11034 pm_2x.jpg" crc="3804478656" ref="index"/>
+    <file name="abc-39-s-amp-football-flash-cards-teach-your-child-the-alphabet-colors-and-football-using-eco-friend__51mkfcd0rvl.jpg" crc="364814763" ref="index"/>
+    <file name="screen shot 2016-11-18 at 11431 pm.jpg" crc="362135618" ref="index"/>
+    <file name="screen shot 2016-11-18 at 11431 pm_2x.jpg" crc="296517580" ref="index"/>
+    <file name="u2578-5.png" crc="3783029804" ref="index"/>
+    <file name="u2578-5_2x.png" crc="221096403" ref="index"/>
+    <file name="u4072-4.png" crc="356168922" ref="index"/>
+    <file name="u4072-4_2x.png" crc="286962996" ref="index"/>
+    <file name="purple-phone-icon-md.png" crc="3882408237" seo="true" ref="index"/>
+    <file name="purple-phone-icon-md_2x.png" crc="324941691" seo="true" ref="index"/>
+    <file name="u4234-4.png" crc="4241784391" ref="index"/>
+    <file name="u4234-4_2x.png" crc="468504541" ref="index"/>
+    <file name="u4308-4.png" crc="470032871" ref="index"/>
+    <file name="u4308-4_2x.png" crc="306305361" ref="index"/>
+    <file name="balch-footer.png" crc="4014667116" seo="true" ref="index"/>
+    <file name="balch-footer_2x.png" crc="4014667116" seo="true" ref="index"/>
+    <file name="u4246-4.png" crc="3839115394" ref="index"/>
+    <file name="u4246-4_2x.png" crc="260666056" ref="index"/>
+  </folder>
+  <file name="index.html" crc="468550913" seo="true" mt="1479494799008" redirect="true"/>
+</manifest>

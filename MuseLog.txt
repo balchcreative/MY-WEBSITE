@@ -1,0 +1,1157 @@
+1500: Logging in build 2015.2.1.21 started at: Fri Sep 30 10:07:25 2016
+========================================
+1500: [04:24:58.440] 14:32:24.031 | Already creating a thumbnail for PI:ParameterizedHTMLPageItem U423. May not be a problem.
+1500: [04:24:58.480] 14:32:24.071 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+1500: [12:00:31.811] 22:07:57.402 | Beginning SaveAs of 'Sitio Web-1' to file '/Users/danielaballesteros/Documents/Sitio Web-1.muse' highest UID:149
+1500: [12:00:36.768] 22:08:02.360 | SaveAs complete for file '/Users/danielaballesteros/Documents/Sitio Web-1.muse' file size:393216 mod Date:Fri Sep 30 22:08:02 GMT-0400 2016 highest UID:149
+1500: [12:00:44.276] 22:08:09.868 | quitWithUI:Quitting Application. Called by: 
+1500: [12:00:44.278] 22:08:09.869 | Quitting Application after 720.3 minutes. Called by: 
+1500: [12:00:46.821] Logging shutdown normally
+
+==========
+1500: Logging ended at: Fri Sep 30 22:08:12 2016
+
+279: Logging in build 2015.2.1.21 started at: Sat Oct  1 12:20:07 2016
+========================================
+279: [00:56:42.088] 13:16:49.901 | Trying to open file '/Users/danielaballesteros/Documents/Sitio Web-1.muse with size:393216 mod Date:Fri Sep 30 22:08:02 GMT-0400 2016
+279: [00:56:42.089] 13:16:49.903 | Opening file '/Users/danielaballesteros/Documents/Sitio Web-1.muse' with status:success size:393216 mod Date:Fri Sep 30 22:08:02 GMT-0400 2016 highestUID: 149
+279: [00:56:52.058] 13:16:59.872 | Trying to open file '/Users/danielaballesteros/Documents/Sitio Web-1.muse with size:393216 mod Date:Fri Sep 30 22:08:02 GMT-0400 2016
+279: [00:56:52.064] 13:16:59.878 | Opening file '/Users/danielaballesteros/Documents/Sitio Web-1.muse' with status:success size:393216 mod Date:Fri Sep 30 22:08:02 GMT-0400 2016 highestUID: 149
+279: [01:24:55.934] 13:45:03.748 | Converting from file format 244 to format 352 for file:/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.2/Amphi_QooQee_NavBars/Classic_QooQee_NavBars.muse
+279: [01:25:07.369] 13:45:15.183 | Beginning Save for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.2/Amphi_QooQee_NavBars/Classic_QooQee_NavBars.muse' highest UID:225
+279: [01:25:09.353] 13:45:17.167 | Save complete for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.2/Amphi_QooQee_NavBars/Classic_QooQee_NavBars.muse' file size:819200 mod Date:Sat Oct 1 13:45:16 GMT-0400 2016 highest UID:225
+279: [01:25:12.850] 13:45:20.665 | Converting from file format 244 to format 352 for file:/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.2/Amphi_QooQee_NavBars/Corner_QooQee_NavBars.muse
+279: [01:25:24.063] 13:45:31.877 | Beginning Save for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.2/Amphi_QooQee_NavBars/Corner_QooQee_NavBars.muse' highest UID:212
+279: [01:25:26.351] 13:45:34.165 | Save complete for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.2/Amphi_QooQee_NavBars/Corner_QooQee_NavBars.muse' file size:786432 mod Date:Sat Oct 1 13:45:33 GMT-0400 2016 highest UID:212
+279: [01:25:29.724] 13:45:37.538 | Converting from file format 244 to format 352 for file:/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.2/Amphi_QooQee_NavBars/Slide α__QooQee_Navigation_Bars.muse
+279: [01:25:40.939] 13:45:48.753 | Beginning Save for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.2/Amphi_QooQee_NavBars/Slide α__QooQee_Navigation_Bars.muse' highest UID:221
+279: [01:25:43.056] 13:45:50.871 | Save complete for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.2/Amphi_QooQee_NavBars/Slide α__QooQee_Navigation_Bars.muse' file size:851968 mod Date:Sat Oct 1 13:45:50 GMT-0400 2016 highest UID:221
+279: [01:25:46.390] 13:45:54.204 | Converting from file format 244 to format 352 for file:/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.2/Amphi_QooQee_NavBars/Slide β__QooQee_Navigation_Bars.muse
+279: [01:25:57.645] 13:46:05.459 | Beginning Save for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.2/Amphi_QooQee_NavBars/Slide β__QooQee_Navigation_Bars.muse' highest UID:211
+279: [01:25:59.726] 13:46:07.540 | Save complete for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.2/Amphi_QooQee_NavBars/Slide β__QooQee_Navigation_Bars.muse' file size:819200 mod Date:Sat Oct 1 13:46:07 GMT-0400 2016 highest UID:211
+279: [01:26:03.185] 13:46:10.999 | Converting from file format 244 to format 352 for file:/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.2/Amphi_QooQee_NavBars/Sticky__QooQee_Navigation_Bars.muse
+279: [01:26:14.690] 13:46:22.504 | Beginning Save for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.2/Amphi_QooQee_NavBars/Sticky__QooQee_Navigation_Bars.muse' highest UID:183
+279: [01:26:16.863] 13:46:24.661 | Save complete for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.2/Amphi_QooQee_NavBars/Sticky__QooQee_Navigation_Bars.muse' file size:622592 mod Date:Sat Oct 1 13:46:24 GMT-0400 2016 highest UID:183
+279: [01:56:27.466] 14:16:35.280 | Beginning drag
+279: [01:56:27.499] 14:16:35.313 | Already dragging, so cannot restart drag
+279: [01:56:27.980] 14:16:35.794 | Drag complete
+279: [01:58:04.832] 14:18:12.646 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [01:58:08.999] 14:18:16.813 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [01:58:11.041] 14:18:18.855 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [01:58:17.047] 14:18:24.861 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [01:58:18.927] 14:18:26.741 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [01:58:22.274] 14:18:30.088 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [01:58:30.246] 14:18:38.060 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [01:58:31.909] 14:18:39.723 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:02:16.653] 14:22:24.467 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:13:07.803] 14:33:15.617 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:24:02.175] 14:44:09.989 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:24:28.989] 14:44:36.803 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:25:45.148] 14:45:52.963 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:27:30.967] 14:47:38.781 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:27:31.040] 14:47:38.855 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:28:08.329] 14:48:16.144 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:28:08.350] 14:48:16.165 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:28:32.185] 14:48:39.999 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:28:32.203] 14:48:40.017 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:30:39.134] 14:50:46.948 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:30:39.154] 14:50:46.968 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:30:51.339] 14:50:59.153 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:30:51.357] 14:50:59.171 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:30:55.530] 14:51:03.344 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:30:59.575] 14:51:07.389 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:30:59.596] 14:51:07.410 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:31:22.151] 14:51:29.966 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:31:22.165] 14:51:29.979 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:32:39.246] 14:52:47.060 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:33:32.733] 14:53:40.547 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:36:34.223] 14:56:42.037 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:36:34.248] 14:56:42.062 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [02:44:59.934] 15:05:07.748 | Beginning drag
+279: [02:44:59.965] 15:05:07.779 | Already dragging, so cannot restart drag
+279: [02:45:00.831] 15:05:08.645 | Drag complete
+279: [02:45:02.638] 15:05:10.452 | Beginning drag
+279: [02:45:02.644] 15:05:10.459 | Already dragging, so cannot restart drag
+279: [02:45:04.056] 15:05:11.870 | Drag complete
+279: [05:07:45.595] 17:27:53.409 | Beginning drag
+279: [05:07:45.610] 17:27:53.424 | Already dragging, so cannot restart drag
+279: [05:07:46.130] 17:27:53.944 | Drag complete
+279: [05:09:04.507] 17:29:12.321 | Beginning drag
+279: [05:09:04.534] 17:29:12.348 | Already dragging, so cannot restart drag
+279: [05:09:05.691] 17:29:13.505 | Drag complete
+279: [05:18:02.892] 17:38:10.706 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [06:08:50.327] 18:28:58.141 | Beginning drag
+279: [06:08:50.356] 18:28:58.171 | Already dragging, so cannot restart drag
+279: [06:08:51.247] 18:28:59.061 | Drag complete
+279: [10:42:53.120] 23:03:00.934 | Beginning drag
+279: [10:42:53.136] 23:03:00.950 | Already dragging, so cannot restart drag
+279: [10:42:54.005] 23:03:01.819 | Drag complete
+279: [10:46:11.611] 23:06:19.425 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [10:47:03.359] 23:07:11.173 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [10:50:56.762] 23:11:04.576 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [10:59:52.005] 23:19:59.819 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [10:59:52.047] 23:19:59.861 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [10:59:52.132] 23:19:59.946 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [10:59:52.156] 23:19:59.971 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [10:59:52.782] 23:20:00.597 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [10:59:52.809] 23:20:00.624 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [10:59:52.834] 23:20:00.648 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [10:59:52.857] 23:20:00.671 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [10:59:54.113] 23:20:01.928 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [10:59:54.141] 23:20:01.955 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [10:59:54.170] 23:20:01.985 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [10:59:54.194] 23:20:02.009 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [10:59:57.787] 23:20:05.601 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [10:59:57.815] 23:20:05.629 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [10:59:57.840] 23:20:05.654 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [10:59:57.863] 23:20:05.677 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [11:00:05.368] 23:20:13.182 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [11:00:05.395] 23:20:13.209 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [11:00:51.748] 23:20:59.563 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [11:00:51.777] 23:20:59.591 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [11:01:38.781] 23:21:46.595 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [11:03:41.433] 23:23:49.248 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [11:03:55.968] 23:24:03.782 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [11:04:31.746] 23:24:39.560 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [11:05:06.745] 23:25:14.559 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [11:05:34.764] 23:25:42.578 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [11:06:29.266] 23:26:37.081 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [11:07:21.994] 23:27:29.808 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [11:21:46.616] 23:41:54.430 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [11:21:47.716] 23:41:55.530 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [11:21:49.426] 23:41:57.240 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [11:22:07.493] 23:42:15.307 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [11:22:52.769] 23:43:00.584 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+279: [11:26:57.070] 23:47:04.884 | Beginning Save for file '/Users/danielaballesteros/Documents/Sitio Web-1.muse' highest UID:2607
+279: [11:26:59.953] 23:47:07.767 | Save complete for file '/Users/danielaballesteros/Documents/Sitio Web-1.muse' file size:3899392 mod Date:Sat Oct 1 23:47:07 GMT-0400 2016 highest UID:2607
+279: [11:28:19.616] 23:48:27.430 | Beginning Save for file '/Users/danielaballesteros/Documents/Sitio Web-1.muse' highest UID:2718
+279: [11:28:21.934] 23:48:29.748 | Save complete for file '/Users/danielaballesteros/Documents/Sitio Web-1.muse' file size:3899392 mod Date:Sat Oct 1 23:48:29 GMT-0400 2016 highest UID:2718
+279: [11:30:08.958] 23:50:16.772 | quitWithUI:Quitting Application. Called by: 
+279: [11:30:08.959] 23:50:16.773 | Quitting Application after 690.1 minutes. Called by: 
+279: [11:30:16.219] Logging shutdown normally
+
+==========
+279: Logging ended at: Sat Oct  1 23:50:24 2016
+
+880: Logging in build 2015.2.1.21 started at: Sun Oct  2 10:38:56 2016
+========================================
+880: [00:01:57.209] 10:40:53.853 | Trying to open file '/Users/danielaballesteros/Documents/Sitio Web-1.muse with size:3899392 mod Date:Sat Oct 1 23:48:29 GMT-0400 2016
+880: [00:01:57.211] 10:40:53.855 | Opening file '/Users/danielaballesteros/Documents/Sitio Web-1.muse' with status:success size:3899392 mod Date:Sat Oct 1 23:48:29 GMT-0400 2016 highestUID: 2718
+880: [04:39:42.670] 15:18:39.314 | Beginning drag
+880: [04:39:42.684] 15:18:39.329 | Already dragging, so cannot restart drag
+880: [04:39:43.670] 15:18:40.315 | Drag complete
+880: [05:38:42.137] 16:17:38.781 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [05:38:42.141] 16:17:38.785 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [05:38:42.142] 16:17:38.786 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [05:38:42.142] 16:17:38.786 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [05:38:42.143] 16:17:38.787 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [05:51:57.564] 16:30:54.209 | Beginning drag
+880: [05:51:57.585] 16:30:54.230 | Already dragging, so cannot restart drag
+880: [05:51:58.666] 16:30:55.311 | Drag complete
+880: [05:51:59.857] 16:30:56.501 | Beginning drag
+880: [05:51:59.873] 16:30:56.518 | Already dragging, so cannot restart drag
+880: [05:52:01.119] 16:30:57.763 | Drag complete
+880: [05:52:07.880] 16:31:04.524 | Beginning drag
+880: [05:52:07.887] 16:31:04.531 | Already dragging, so cannot restart drag
+880: [05:52:09.109] 16:31:05.754 | Drag complete
+880: [05:57:44.905] 16:36:41.549 | Beginning drag
+880: [05:57:44.920] 16:36:41.564 | Already dragging, so cannot restart drag
+880: [05:57:46.476] 16:36:43.121 | Drag complete
+880: [05:57:49.195] 16:36:45.840 | Beginning drag
+880: [05:57:49.203] 16:36:45.847 | Already dragging, so cannot restart drag
+880: [05:57:50.881] 16:36:47.525 | Drag complete
+880: [08:13:46.241] 18:52:42.885 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:13:46.381] 18:52:43.025 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:13:46.382] 18:52:43.026 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:13:46.382] 18:52:43.027 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:13:46.383] 18:52:43.027 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:14:45.440] 18:53:42.084 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:14:45.441] 18:53:42.085 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:14:45.441] 18:53:42.086 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:14:45.442] 18:53:42.086 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:14:45.442] 18:53:42.087 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:14:53.912] 18:53:50.556 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:14:53.912] 18:53:50.557 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:14:53.913] 18:53:50.557 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:14:53.914] 18:53:50.558 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:14:53.914] 18:53:50.558 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:16:15.151] 18:55:11.796 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:16:15.161] 18:55:11.806 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:16:15.162] 18:55:11.806 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:16:15.162] 18:55:11.807 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:16:15.163] 18:55:11.807 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:26:20.107] 19:05:16.751 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:26:20.123] 19:05:16.767 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:26:20.123] 19:05:16.767 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:26:20.124] 19:05:16.768 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:26:20.124] 19:05:16.769 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:27:18.732] 19:06:15.376 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:27:18.744] 19:06:15.388 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:27:18.745] 19:06:15.389 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:27:18.746] 19:06:15.391 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:27:18.748] 19:06:15.392 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:28:17.558] 19:07:14.202 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:28:17.558] 19:07:14.203 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:28:17.559] 19:07:14.203 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:28:17.559] 19:07:14.204 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:28:17.560] 19:07:14.204 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:18.610] 19:08:15.254 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:18.611] 19:08:15.255 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:18.611] 19:08:15.255 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:18.612] 19:08:15.256 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:18.612] 19:08:15.257 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:28.121] 19:08:24.765 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:28.127] 19:08:24.771 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:28.127] 19:08:24.772 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:28.128] 19:08:24.772 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:28.128] 19:08:24.773 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:34.843] 19:08:31.488 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:34.844] 19:08:31.488 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:34.844] 19:08:31.489 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:34.845] 19:08:31.489 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:34.846] 19:08:31.490 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:37.262] 19:08:33.906 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:37.262] 19:08:33.907 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:37.263] 19:08:33.907 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:37.263] 19:08:33.908 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:37.264] 19:08:33.908 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:49.473] 19:08:46.117 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:49.473] 19:08:46.118 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:49.474] 19:08:46.118 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:49.474] 19:08:46.119 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:29:49.475] 19:08:46.119 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:31:02.796] 19:09:59.440 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:31:02.797] 19:09:59.441 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:31:02.797] 19:09:59.442 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:31:02.798] 19:09:59.442 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:31:02.798] 19:09:59.443 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:32:07.949] 19:11:04.593 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:32:07.958] 19:11:04.603 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:32:07.959] 19:11:04.603 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:32:07.959] 19:11:04.604 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:32:07.960] 19:11:04.604 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:32:20.152] 19:11:16.797 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:32:20.153] 19:11:16.797 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:32:20.154] 19:11:16.798 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:32:20.154] 19:11:16.799 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:32:20.155] 19:11:16.799 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:33:04.646] 19:12:01.290 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:33:04.647] 19:12:01.291 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:33:04.647] 19:12:01.292 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:33:04.648] 19:12:01.292 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:33:04.649] 19:12:01.293 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:34:28.368] 19:13:25.012 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:34:28.378] 19:13:25.022 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:34:28.378] 19:13:25.023 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:34:28.379] 19:13:25.023 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:34:28.379] 19:13:25.024 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:34:55.640] 19:13:52.285 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:34:55.641] 19:13:52.285 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:34:55.642] 19:13:52.286 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:34:55.642] 19:13:52.287 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:34:55.643] 19:13:52.287 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:35:59.144] 19:14:55.789 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:35:59.145] 19:14:55.789 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:35:59.146] 19:14:55.790 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:35:59.146] 19:14:55.791 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:35:59.147] 19:14:55.791 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:36:38.674] 19:15:35.319 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:36:38.679] 19:15:35.323 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:36:38.680] 19:15:35.324 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:36:38.680] 19:15:35.325 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:36:38.681] 19:15:35.325 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:41:15.750] 19:20:12.394 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:41:15.828] 19:20:12.472 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:41:15.829] 19:20:12.473 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:41:15.830] 19:20:12.474 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:41:15.831] 19:20:12.475 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:41:38.581] 19:20:35.225 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:41:38.590] 19:20:35.234 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:41:38.591] 19:20:35.236 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:41:38.593] 19:20:35.237 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:41:38.594] 19:20:35.239 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:48:36.659] 19:27:33.303 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:48:36.672] 19:27:33.316 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:48:36.673] 19:27:33.317 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:48:36.673] 19:27:33.318 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:48:36.674] 19:27:33.318 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:49:27.627] 19:28:24.271 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:49:27.641] 19:28:24.285 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:49:27.642] 19:28:24.286 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:49:27.642] 19:28:24.287 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:49:27.643] 19:28:24.287 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:49:44.621] 19:28:41.265 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:49:44.622] 19:28:41.266 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:49:44.622] 19:28:41.266 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:49:44.623] 19:28:41.267 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:49:44.623] 19:28:41.268 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:52:41.731] 19:31:38.376 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:52:41.738] 19:31:38.382 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:52:41.739] 19:31:38.383 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:52:41.739] 19:31:38.383 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:52:41.740] 19:31:38.384 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:55:19.566] 19:34:16.210 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:55:19.570] 19:34:16.214 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:55:19.571] 19:34:16.215 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:55:19.572] 19:34:16.216 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:55:19.572] 19:34:16.217 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:55:22.062] 19:34:18.707 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:55:22.063] 19:34:18.707 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:55:22.063] 19:34:18.708 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:55:22.064] 19:34:18.708 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:55:22.065] 19:34:18.709 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:55:37.620] 19:34:34.264 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:55:37.621] 19:34:34.265 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:55:37.621] 19:34:34.266 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:55:37.622] 19:34:34.266 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:55:37.623] 19:34:34.267 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:56:34.529] 19:35:31.174 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:56:34.543] 19:35:31.187 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:56:34.544] 19:35:31.188 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:56:34.544] 19:35:31.189 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:56:34.545] 19:35:31.189 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:56:38.694] 19:35:35.338 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:56:38.695] 19:35:35.339 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:56:38.695] 19:35:35.340 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:56:38.696] 19:35:35.340 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:56:38.697] 19:35:35.341 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:56:41.488] 19:35:38.132 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:56:41.489] 19:35:38.133 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:56:41.489] 19:35:38.133 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:56:41.490] 19:35:38.134 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:56:41.490] 19:35:38.135 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:57:18.670] 19:36:15.314 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:57:18.671] 19:36:15.315 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:57:18.671] 19:36:15.316 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:57:18.672] 19:36:15.316 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:57:18.672] 19:36:15.317 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:58:00.696] 19:36:57.340 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:58:00.696] 19:36:57.341 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:58:00.697] 19:36:57.341 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:58:00.697] 19:36:57.342 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:58:00.698] 19:36:57.342 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:58:05.039] 19:37:01.683 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:58:05.039] 19:37:01.684 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:58:05.040] 19:37:01.684 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:58:05.041] 19:37:01.685 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:58:05.041] 19:37:01.685 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:58:23.159] 19:37:19.803 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:58:23.165] 19:37:19.810 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:58:23.166] 19:37:19.810 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:58:23.167] 19:37:19.811 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:58:23.167] 19:37:19.811 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:59:21.632] 19:38:18.276 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:59:21.632] 19:38:18.277 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:59:21.633] 19:38:18.277 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:59:21.634] 19:38:18.278 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:59:21.634] 19:38:18.279 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:59:25.245] 19:38:21.889 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:59:25.246] 19:38:21.890 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:59:25.246] 19:38:21.891 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:59:25.247] 19:38:21.891 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:59:25.248] 19:38:21.892 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:59:31.522] 19:38:28.166 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:59:31.523] 19:38:28.167 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:59:31.523] 19:38:28.168 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:59:31.524] 19:38:28.168 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [08:59:31.524] 19:38:28.169 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:00:01.005] 19:38:57.650 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:00:01.006] 19:38:57.650 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:00:01.007] 19:38:57.651 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:00:01.007] 19:38:57.652 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:00:01.008] 19:38:57.652 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:00:21.499] 19:39:18.143 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:00:21.500] 19:39:18.144 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:00:21.500] 19:39:18.145 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:00:21.501] 19:39:18.145 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:00:21.502] 19:39:18.146 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:00:34.431] 19:39:31.075 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:00:34.432] 19:39:31.076 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:00:34.432] 19:39:31.077 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:00:34.433] 19:39:31.078 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:00:34.434] 19:39:31.078 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:01:02.152] 19:39:58.796 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:01:02.180] 19:39:58.824 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:01:02.181] 19:39:58.825 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:01:02.181] 19:39:58.825 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:01:02.182] 19:39:58.826 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:01:44.173] 19:40:40.817 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:01:44.174] 19:40:40.818 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:01:44.175] 19:40:40.819 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:01:44.175] 19:40:40.820 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:01:44.176] 19:40:40.820 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:01:53.379] 19:40:50.024 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:01:53.380] 19:40:50.024 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:01:53.380] 19:40:50.025 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:01:53.381] 19:40:50.025 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:01:53.381] 19:40:50.026 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:02:26.049] 19:41:22.694 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:02:26.050] 19:41:22.694 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:02:26.051] 19:41:22.695 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:02:26.051] 19:41:22.696 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:02:26.052] 19:41:22.696 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:02:53.241] 19:41:49.885 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:02:53.242] 19:41:49.886 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:02:53.242] 19:41:49.887 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:02:53.243] 19:41:49.887 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:02:53.243] 19:41:49.888 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:03:32.631] 19:42:29.276 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:03:32.632] 19:42:29.277 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:03:32.633] 19:42:29.277 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:03:32.634] 19:42:29.278 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:03:32.635] 19:42:29.279 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:05:02.205] 19:43:58.849 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:05:02.205] 19:43:58.850 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:05:02.206] 19:43:58.850 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:05:02.206] 19:43:58.851 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:05:02.207] 19:43:58.851 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:05:38.583] 19:44:35.227 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:05:38.584] 19:44:35.228 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:05:38.584] 19:44:35.229 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:05:38.585] 19:44:35.229 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [09:05:38.586] 19:44:35.230 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:13:18.410] 21:52:15.054 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:13:18.419] 21:52:15.063 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:13:18.419] 21:52:15.064 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:13:18.420] 21:52:15.064 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:13:18.420] 21:52:15.065 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:16:36.223] 21:55:32.868 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:16:36.224] 21:55:32.868 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:16:36.225] 21:55:32.869 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:16:36.225] 21:55:32.869 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:16:36.226] 21:55:32.870 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:18:05.850] 21:57:02.494 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:18:05.850] 21:57:02.495 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:18:05.851] 21:57:02.495 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:18:05.851] 21:57:02.496 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:18:05.852] 21:57:02.496 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:18:09.742] 21:57:06.386 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:18:09.743] 21:57:06.387 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:18:09.743] 21:57:06.388 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:18:09.744] 21:57:06.388 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:18:09.744] 21:57:06.389 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:19:21.048] 21:58:17.693 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:19:21.057] 21:58:17.702 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:19:21.058] 21:58:17.702 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:19:21.059] 21:58:17.703 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:19:21.059] 21:58:17.704 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:19:40.814] 21:58:37.458 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:19:40.814] 21:58:37.459 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:19:40.815] 21:58:37.459 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:19:40.816] 21:58:37.460 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:19:40.816] 21:58:37.461 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:20:35.824] 21:59:32.469 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:20:35.831] 21:59:32.475 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:20:35.831] 21:59:32.476 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:20:35.832] 21:59:32.476 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:20:35.833] 21:59:32.477 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:20:56.424] 21:59:53.068 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:20:56.424] 21:59:53.069 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:20:56.425] 21:59:53.069 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:20:56.426] 21:59:53.070 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:20:56.426] 21:59:53.071 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:22:49.174] 22:01:45.818 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:22:49.199] 22:01:45.843 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:22:49.199] 22:01:45.844 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:22:49.200] 22:01:45.844 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:22:49.201] 22:01:45.845 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:23:05.061] 22:02:01.705 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:23:05.061] 22:02:01.706 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:23:05.062] 22:02:01.706 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:23:05.063] 22:02:01.707 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:23:05.063] 22:02:01.707 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:23:46.353] 22:02:42.997 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:23:46.353] 22:02:42.997 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:23:46.354] 22:02:42.998 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:23:46.354] 22:02:42.999 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:23:46.355] 22:02:42.999 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:24:24.676] 22:03:21.320 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:24:24.677] 22:03:21.321 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:24:24.677] 22:03:21.321 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:24:24.678] 22:03:21.322 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:24:24.678] 22:03:21.323 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:24:25.625] 22:03:22.269 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:24:25.626] 22:03:22.270 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:24:25.626] 22:03:22.271 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:24:25.627] 22:03:22.272 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:24:25.628] 22:03:22.272 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:24:28.122] 22:03:24.766 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:24:28.122] 22:03:24.767 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:24:28.123] 22:03:24.767 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:24:28.124] 22:03:24.768 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:24:28.124] 22:03:24.769 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:25:20.820] 22:04:17.465 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:25:20.829] 22:04:17.473 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:25:20.830] 22:04:17.474 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:25:20.830] 22:04:17.475 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:25:20.831] 22:04:17.475 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:25:21.471] 22:04:18.115 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:25:21.472] 22:04:18.116 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:25:21.472] 22:04:18.117 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:25:21.473] 22:04:18.117 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:25:21.473] 22:04:18.118 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:25:23.412] 22:04:20.057 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:25:23.413] 22:04:20.057 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:25:23.413] 22:04:20.058 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:25:23.414] 22:04:20.058 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:25:23.415] 22:04:20.059 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:26:54.152] 22:05:50.797 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:26:54.164] 22:05:50.809 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:26:54.165] 22:05:50.809 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:26:54.165] 22:05:50.810 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:26:54.166] 22:05:50.810 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:28:03.415] 22:07:00.060 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:28:03.416] 22:07:00.061 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:28:03.417] 22:07:00.062 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:28:03.418] 22:07:00.062 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [11:28:03.419] 22:07:00.063 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+880: [12:45:10.503] 23:24:07.148 | Beginning Save for file '/Users/danielaballesteros/Documents/Sitio Web-1.muse' highest UID:4868
+880: [12:45:15.990] 23:24:12.634 | Save complete for file '/Users/danielaballesteros/Documents/Sitio Web-1.muse' file size:7733248 mod Date:Sun Oct 2 23:24:12 GMT-0400 2016 highest UID:4868
+880: [12:48:27.491] 23:27:24.135 | quitWithUI:Quitting Application. Called by: 
+880: [12:48:27.492] 23:27:24.136 | Quitting Application after 768.1 minutes. Called by: 
+880: [12:48:40.833] Logging shutdown normally
+
+==========
+880: Logging ended at: Sun Oct  2 23:27:38 2016
+
+18031: Logging in build 2015.2.1.21 started at: Mon Nov 14 22:23:23 2016
+========================================
+18031: [01:03:10.497] 23:26:33.798 | quitWithUI:Quitting Application. Called by: 
+18031: [01:03:10.508] 23:26:33.810 | Quitting Application after 62.8 minutes. Called by: 
+18031: [01:03:13.010] Logging shutdown normally
+
+==========
+18031: Logging ended at: Mon Nov 14 23:26:36 2016
+
+955: Logging in build 2015.2.1.21 started at: Wed Nov 16 14:08:29 2016
+========================================
+955: [00:00:42.147] 14:09:11.580 | Trying to open file '/Volumes/DATA/BALCH WEBSITE .muse with size:1900544 mod Date:Thu Nov 10 11:01:25 GMT-0500 2016
+955: [00:00:42.148] 14:09:11.582 | Opening file '/Volumes/DATA/BALCH WEBSITE .muse' with status:success size:1900544 mod Date:Thu Nov 10 11:01:25 GMT-0500 2016 highestUID: 335
+955: [00:00:48.186] 14:09:17.620 | Converting from file format 310 to format 352 for file:/Volumes/DATA/BALCH WEBSITE .muse
+955: [00:05:33.541] 14:14:02.975 | quitWithUI:Quitting Application. Called by: 
+955: [00:05:33.542] 14:14:02.976 | Quitting Application after 5.4 minutes. Called by: 
+955: [00:05:36.077] Logging shutdown normally
+
+==========
+955: Logging ended at: Wed Nov 16 14:14:06 2016
+
+Logging in build 2017.0.0.149 started at: Wed Nov 16 14:19:43 2016
+========================================
+[00:00:42.841] 14:20:26.407 | Trying to open file '/Volumes/DATA/BALCH WEBSITE .muse with size:1900544 mod Date:Thu Nov 10 11:01:25 GMT-0500 2016
+[00:00:42.857] 14:20:26.423 | Opening file '/Volumes/DATA/BALCH WEBSITE .muse' with status:success size:1900544 mod Date:Thu Nov 10 11:01:25 GMT-0500 2016 highestUID: 335
+[00:00:42.862] 14:20:26.428 | Trying to open file '/Volumes/DATA/BALCH WEBSITE .muse with size:1900544 mod Date:Thu Nov 10 11:01:25 GMT-0500 2016
+[00:00:42.863] 14:20:26.429 | Opening file '/Volumes/DATA/BALCH WEBSITE .muse' with status:success size:1900544 mod Date:Thu Nov 10 11:01:25 GMT-0500 2016 highestUID: 335
+[00:00:48.983] 14:20:32.549 | Converting from file format 310 to format 363 for file:/Volumes/DATA/BALCH WEBSITE .muse
+[01:29:03.016] 15:48:46.581 | Converting from file format 352 to format 363 for file:/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/Amphi_QooQee_NavBars/Corner_QooQee_NavBars.muse
+[01:29:04.675] 15:48:48.241 | Beginning Save for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/Amphi_QooQee_NavBars/Corner_QooQee_NavBars.muse' highest UID:212
+[01:29:07.322] 15:48:50.888 | Save complete for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/Amphi_QooQee_NavBars/Corner_QooQee_NavBars.muse' file size:819200 mod Date:Wed Nov 16 15:48:50 GMT-0500 2016 highest UID:212
+[01:29:14.595] 15:48:58.161 | Converting from file format 352 to format 363 for file:/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/Amphi_QooQee_NavBars/Classic_QooQee_NavBars.muse
+[01:29:16.265] 15:48:59.831 | Beginning Save for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/Amphi_QooQee_NavBars/Classic_QooQee_NavBars.muse' highest UID:225
+[01:29:18.824] 15:49:02.390 | Save complete for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/Amphi_QooQee_NavBars/Classic_QooQee_NavBars.muse' file size:884736 mod Date:Wed Nov 16 15:49:02 GMT-0500 2016 highest UID:225
+[01:29:26.870] 15:49:10.436 | Converting from file format 352 to format 363 for file:/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/Amphi_QooQee_NavBars/Slide α__QooQee_Navigation_Bars.muse
+[01:29:28.542] 15:49:12.108 | Beginning Save for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/Amphi_QooQee_NavBars/Slide α__QooQee_Navigation_Bars.muse' highest UID:221
+[01:29:31.088] 15:49:14.654 | Save complete for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/Amphi_QooQee_NavBars/Slide α__QooQee_Navigation_Bars.muse' file size:917504 mod Date:Wed Nov 16 15:49:14 GMT-0500 2016 highest UID:221
+[01:29:37.052] 15:49:20.617 | Converting from file format 352 to format 363 for file:/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/Amphi_QooQee_NavBars/Sticky__QooQee_Navigation_Bars.muse
+[01:29:38.633] 15:49:22.199 | Beginning Save for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/Amphi_QooQee_NavBars/Sticky__QooQee_Navigation_Bars.muse' highest UID:183
+[01:29:41.350] 15:49:24.916 | Save complete for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/Amphi_QooQee_NavBars/Sticky__QooQee_Navigation_Bars.muse' file size:688128 mod Date:Wed Nov 16 15:49:24 GMT-0500 2016 highest UID:183
+[01:56:31.796] 16:16:15.362 | Beginning drag
+[01:56:31.827] 16:16:15.393 | Already dragging, so cannot restart drag
+[01:56:33.088] 16:16:16.654 | Drag complete
+[03:16:27.265] 17:36:10.831 | Converting from file format 352 to format 363 for file:/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/Amphi_QooQee_NavBars/Slide β__QooQee_Navigation_Bars.muse
+[03:16:29.479] 17:36:13.045 | Beginning Save for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/Amphi_QooQee_NavBars/Slide β__QooQee_Navigation_Bars.muse' highest UID:211
+[03:16:32.673] 17:36:16.239 | Save complete for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/Amphi_QooQee_NavBars/Slide β__QooQee_Navigation_Bars.muse' file size:884736 mod Date:Wed Nov 16 17:36:16 GMT-0500 2016 highest UID:211
+[03:20:20.390] 17:40:03.956 | Beginning drag
+[03:20:20.409] 17:40:03.975 | Already dragging, so cannot restart drag
+[03:20:22.291] 17:40:05.857 | Drag complete
+[03:42:06.689] 18:01:50.254 | Beginning drag
+[03:42:06.714] 18:01:50.279 | Already dragging, so cannot restart drag
+[03:42:08.574] 18:01:52.140 | Drag complete
+[03:42:12.331] 18:01:55.897 | Beginning drag
+[03:42:12.337] 18:01:55.903 | Already dragging, so cannot restart drag
+[03:42:14.900] 18:01:58.466 | Drag complete
+[03:42:25.052] 18:02:08.618 | Beginning drag
+[03:42:25.061] 18:02:08.627 | Already dragging, so cannot restart drag
+[03:42:26.394] 18:02:09.960 | Drag complete
+[03:42:30.785] 18:02:14.350 | Beginning drag
+[03:42:30.792] 18:02:14.358 | Already dragging, so cannot restart drag
+[03:42:33.132] 18:02:16.698 | Drag complete
+[04:23:22.233] 18:43:05.799 | Beginning drag
+[04:23:22.347] 18:43:05.912 | Already dragging, so cannot restart drag
+[04:23:25.283] 18:43:08.849 | Drag complete
+[04:23:31.887] 18:43:15.452 | Cannot drag - renderer Layer 3 is editing
+[04:23:31.908] 18:43:15.474 | Cannot drag - renderer Layer 3 is editing
+Logging in build 2017.0.0.149 started at: Wed Nov 16 20:54:41 2016
+========================================
+[00:02:04.087] 20:56:45.401 | Doing recovery for null minisave fileA:Fm67MRTRla-aQLIkEpj4FQ fileB:72M8Ucir2sNdSxBdHbmIHQ
+[00:02:04.087] 20:56:45.402 | Trying to recover unnamed file
+[00:02:08.349] 20:56:49.664 | deleteHiddenBreakpointsOnMasters deleted 1 hidden breakpoints on masters
+[00:02:08.350] 20:56:49.665 | Recovered file:Website-1 path:null highest UID:1524 filesize:unknown mod date:unknown
+[00:02:09.989] 20:56:51.303 | Recovery Complete
+[00:07:58.536] 21:02:39.850 | Beginning drag
+[00:07:58.566] 21:02:39.880 | Already dragging, so cannot restart drag
+[00:07:59.649] 21:02:40.963 | Drag complete
+[00:08:01.093] 21:02:42.407 | Beginning drag
+[00:08:01.113] 21:02:42.427 | Already dragging, so cannot restart drag
+[00:08:02.635] 21:02:43.950 | Drag complete
+[00:59:33.339] 21:54:14.654 | Converting from file format 310 to format 363 for file:/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/MuseFree.com/Mouse Scroll Animation.muse
+[00:59:39.596] 21:54:20.911 | Beginning Save for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/MuseFree.com/Mouse Scroll Animation.muse' highest UID:91
+[00:59:42.163] 21:54:23.478 | Save complete for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/MuseFree.com/Mouse Scroll Animation.muse' file size:425984 mod Date:Wed Nov 16 21:54:23 GMT-0500 2016 highest UID:91
+[00:59:49.006] 21:54:30.320 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[00:59:49.006] 21:54:30.321 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[00:59:49.006] 21:54:30.321 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[00:59:53.062] 21:54:34.377 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[00:59:53.063] 21:54:34.377 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[00:59:53.063] 21:54:34.377 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[01:00:02.815] 21:54:44.130 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[01:00:02.816] 21:54:44.130 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[01:00:02.816] 21:54:44.130 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[01:00:18.850] 21:55:00.164 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[01:00:18.850] 21:55:00.165 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[01:00:18.850] 21:55:00.165 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[01:00:28.853] 21:55:10.167 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[01:00:28.853] 21:55:10.167 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[01:00:28.853] 21:55:10.167 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[01:00:43.026] 21:55:24.340 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[01:00:43.026] 21:55:24.340 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[01:00:43.026] 21:55:24.341 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[01:00:52.576] 21:55:33.891 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[01:00:52.635] 21:55:33.949 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[01:00:52.635] 21:55:33.949 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[01:02:29.296] 21:57:10.610 | Converting from file format 310 to format 363 for file:/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/MuseFree.com 2/Simple Mouse Scroll.muse
+[01:02:35.424] 21:57:16.738 | Beginning Save for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/MuseFree.com 2/Simple Mouse Scroll.muse' highest UID:91
+[01:02:38.045] 21:57:19.359 | Save complete for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/MuseFree.com 2/Simple Mouse Scroll.muse' file size:425984 mod Date:Wed Nov 16 21:57:19 GMT-0500 2016 highest UID:91
+[01:05:19.688] 22:00:01.003 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[01:05:19.697] 22:00:01.012 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[01:05:19.697] 22:00:01.012 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[02:02:11.684] 22:56:52.998 | Beginning drag
+[02:02:11.727] 22:56:53.041 | Already dragging, so cannot restart drag
+[02:02:12.712] 22:56:54.026 | Drag complete
+[02:44:54.994] 23:39:36.309 | Beginning drag
+[02:44:55.084] 23:39:36.399 | Already dragging, so cannot restart drag
+[02:44:57.028] 23:39:38.343 | Drag complete
+[02:45:07.953] 23:39:49.267 | Beginning drag
+[02:45:07.970] 23:39:49.284 | Already dragging, so cannot restart drag
+[02:45:10.328] 23:39:51.642 | Drag complete
+[02:45:16.995] 23:39:58.309 | Beginning drag
+[02:45:17.018] 23:39:58.332 | Already dragging, so cannot restart drag
+[02:45:18.302] 23:39:59.616 | Drag complete
+[02:45:58.275] 23:40:39.590 | Beginning drag
+[02:45:58.297] 23:40:39.611 | Already dragging, so cannot restart drag
+[02:46:00.279] 23:40:41.593 | Drag complete
+[02:46:01.348] 23:40:42.662 | Beginning drag
+[02:46:01.365] 23:40:42.680 | Already dragging, so cannot restart drag
+[02:46:05.777] 23:40:47.091 | Drag complete
+[02:46:14.336] 23:40:55.650 | Beginning drag
+[02:46:14.355] 23:40:55.669 | Already dragging, so cannot restart drag
+[02:46:14.926] 23:40:56.241 | Drag complete
+[02:46:18.791] 23:41:00.106 | Beginning drag
+[02:46:18.809] 23:41:00.123 | Already dragging, so cannot restart drag
+[02:46:20.462] 23:41:01.777 | Drag complete
+[02:46:31.367] 23:41:12.682 | Beginning drag
+[02:46:31.385] 23:41:12.699 | Already dragging, so cannot restart drag
+[02:46:32.618] 23:41:13.932 | Drag complete
+[02:46:36.414] 23:41:17.729 | Beginning drag
+[02:46:36.432] 23:41:17.746 | Already dragging, so cannot restart drag
+[02:46:37.224] 23:41:18.538 | Drag complete
+[02:47:34.966] 23:42:16.281 | Beginning drag
+[02:47:34.981] 23:42:16.295 | Already dragging, so cannot restart drag
+[02:47:35.815] 23:42:17.129 | Drag complete
+[02:48:49.295] 23:43:30.609 | Beginning drag
+[02:48:49.313] 23:43:30.627 | Already dragging, so cannot restart drag
+[02:48:52.913] 23:43:34.227 | Drag complete
+[02:49:01.580] 23:43:42.895 | Beginning drag
+[02:49:01.604] 23:43:42.919 | Already dragging, so cannot restart drag
+[02:49:03.635] 23:43:44.950 | Drag complete
+[03:11:53.073] 00:06:34.387 | Beginning drag
+[03:11:53.314] 00:06:34.628 | Already dragging, so cannot restart drag
+[03:11:56.232] 00:06:37.546 | Drag complete
+[04:21:54.176] 01:16:35.491 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[04:21:54.186] 01:16:35.501 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[04:21:54.186] 01:16:35.501 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[04:22:13.439] 01:16:54.753 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[04:22:13.439] 01:16:54.754 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[04:22:13.439] 01:16:54.754 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[04:23:07.367] 01:17:48.681 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[04:23:07.367] 01:17:48.681 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[04:23:07.367] 01:17:48.681 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[04:23:11.907] 01:17:53.221 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[04:23:11.907] 01:17:53.221 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[04:23:11.907] 01:17:53.221 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[04:23:24.162] 01:18:05.476 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[04:23:24.162] 01:18:05.477 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[04:23:24.162] 01:18:05.477 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[04:23:44.091] 01:18:25.406 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[04:23:44.092] 01:18:25.406 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[04:23:44.092] 01:18:25.406 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[05:08:06.489] 02:02:47.803 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[05:08:06.501] 02:02:47.816 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[05:08:06.501] 02:02:47.816 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[05:08:07.586] 02:02:48.900 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[05:08:07.586] 02:02:48.901 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[05:08:07.586] 02:02:48.901 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[05:19:22.202] 02:14:03.516 | Converting from file format 310 to format 363 for file:/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/MuseFree.com 3/Image Overlay Effect v3.muse
+[05:19:29.382] 02:14:10.697 | Beginning Save for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/MuseFree.com 3/Image Overlay Effect v3.muse' highest UID:90
+[05:19:32.357] 02:14:13.671 | Save complete for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/MuseFree.com 3/Image Overlay Effect v3.muse' file size:425984 mod Date:Thu Nov 17 02:14:13 GMT-0500 2016 highest UID:90
+[05:24:50.832] 02:19:32.146 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[05:24:50.836] 02:19:32.151 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[05:24:50.836] 02:19:32.151 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[05:24:52.047] 02:19:33.361 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[05:24:52.047] 02:19:33.362 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[05:24:52.047] 02:19:33.362 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[05:30:24.899] 02:25:06.213 | Converting from file format 310 to format 363 for file:/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/MuseFree.com 4/Tiled Slideshow.muse
+[05:30:31.373] 02:25:12.688 | Beginning Save for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/MuseFree.com 4/Tiled Slideshow.muse' highest UID:91
+[05:30:33.888] 02:25:15.202 | Save complete for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/MuseFree.com 4/Tiled Slideshow.muse' file size:524288 mod Date:Thu Nov 17 02:25:15 GMT-0500 2016 highest UID:91
+[05:31:32.547] 02:26:13.862 | Warning: Failed to find {param_width} in HTML string to replace in widget:Tiled Slideshow
+[05:31:32.548] 02:26:13.862 | Warning: Failed to find {param_height} in HTML string to replace in widget:Tiled Slideshow
+[05:31:32.548] 02:26:13.862 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Tiled Slideshow
+[05:31:44.228] 02:26:25.542 | Warning: Failed to find {param_width} in HTML string to replace in widget:Tiled Slideshow
+[05:31:44.228] 02:26:25.543 | Warning: Failed to find {param_height} in HTML string to replace in widget:Tiled Slideshow
+[05:31:44.228] 02:26:25.543 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Tiled Slideshow
+[05:32:12.664] 02:26:53.978 | Warning: Failed to find {param_width} in HTML string to replace in widget:Tiled Slideshow
+[05:32:12.733] 02:26:54.048 | Warning: Failed to find {param_height} in HTML string to replace in widget:Tiled Slideshow
+[05:32:12.734] 02:26:54.048 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Tiled Slideshow
+[05:32:44.225] 02:27:25.539 | Warning: Failed to find {param_width} in HTML string to replace in widget:Tiled Slideshow
+[05:32:44.225] 02:27:25.539 | Warning: Failed to find {param_height} in HTML string to replace in widget:Tiled Slideshow
+[05:32:44.225] 02:27:25.540 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Tiled Slideshow
+[05:33:02.965] 02:27:44.279 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[05:33:02.965] 02:27:44.279 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[05:33:02.965] 02:27:44.279 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[05:33:04.109] 02:27:45.423 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[05:33:04.109] 02:27:45.424 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[05:33:04.109] 02:27:45.424 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[05:33:04.283] 02:27:45.598 | Warning: Failed to find {param_width} in HTML string to replace in widget:Tiled Slideshow
+[05:33:04.283] 02:27:45.598 | Warning: Failed to find {param_height} in HTML string to replace in widget:Tiled Slideshow
+[05:33:04.284] 02:27:45.598 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Tiled Slideshow
+[05:34:28.516] 02:29:09.830 | Warning: Failed to find {param_width} in HTML string to replace in widget:Tiled Slideshow
+[05:34:28.528] 02:29:09.842 | Warning: Failed to find {param_height} in HTML string to replace in widget:Tiled Slideshow
+[05:34:28.528] 02:29:09.842 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Tiled Slideshow
+[05:34:42.095] 02:29:23.409 | Warning: Failed to find {param_width} in HTML string to replace in widget:Tiled Slideshow
+[05:34:42.095] 02:29:23.410 | Warning: Failed to find {param_height} in HTML string to replace in widget:Tiled Slideshow
+[05:34:42.096] 02:29:23.410 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Tiled Slideshow
+[05:34:48.427] 02:29:29.742 | Warning: Failed to find {param_width} in HTML string to replace in widget:Tiled Slideshow
+[05:34:48.428] 02:29:29.742 | Warning: Failed to find {param_height} in HTML string to replace in widget:Tiled Slideshow
+[05:34:48.428] 02:29:29.742 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Tiled Slideshow
+[05:35:54.998] 02:30:36.312 | Warning: Failed to find {param_width} in HTML string to replace in widget:Tiled Slideshow
+[05:35:55.003] 02:30:36.317 | Warning: Failed to find {param_height} in HTML string to replace in widget:Tiled Slideshow
+[05:35:55.003] 02:30:36.318 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Tiled Slideshow
+[05:36:21.009] 02:31:02.323 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[05:36:21.009] 02:31:02.323 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[05:36:21.009] 02:31:02.324 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[05:36:22.169] 02:31:03.484 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[05:36:22.170] 02:31:03.484 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[05:36:22.170] 02:31:03.484 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[05:36:22.345] 02:31:03.660 | Warning: Failed to find {param_width} in HTML string to replace in widget:Tiled Slideshow
+[05:36:22.346] 02:31:03.660 | Warning: Failed to find {param_height} in HTML string to replace in widget:Tiled Slideshow
+[05:36:22.346] 02:31:03.660 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Tiled Slideshow
+[05:37:24.251] 02:32:05.565 | Warning: Failed to find {param_width} in HTML string to replace in widget:Tiled Slideshow
+[05:37:24.263] 02:32:05.577 | Warning: Failed to find {param_height} in HTML string to replace in widget:Tiled Slideshow
+[05:37:24.263] 02:32:05.577 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Tiled Slideshow
+[05:37:51.454] 02:32:32.769 | Warning: Failed to find {param_width} in HTML string to replace in widget:Tiled Slideshow
+[05:37:51.460] 02:32:32.774 | Warning: Failed to find {param_height} in HTML string to replace in widget:Tiled Slideshow
+[05:37:51.460] 02:32:32.774 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Tiled Slideshow
+[05:38:49.651] 02:33:30.966 | Warning: Failed to find {param_width} in HTML string to replace in widget:Tiled Slideshow
+[05:38:49.663] 02:33:30.978 | Warning: Failed to find {param_height} in HTML string to replace in widget:Tiled Slideshow
+[05:38:49.663] 02:33:30.978 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Tiled Slideshow
+[05:40:07.920] 02:34:49.234 | Warning: Failed to find {param_width} in HTML string to replace in widget:Tiled Slideshow
+[05:40:07.929] 02:34:49.243 | Warning: Failed to find {param_height} in HTML string to replace in widget:Tiled Slideshow
+[05:40:07.929] 02:34:49.243 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Tiled Slideshow
+[05:49:46.509] 02:44:27.823 | Trying to open file '/Users/danielaballesteros/Downloads/Adobe Muse Contact Form/Adobe Muse Contact Form.muse with size:819200 mod Date:Wed Jul 30 17:36:13 GMT-0400 2014
+[05:49:46.522] 02:44:27.836 | Opening file '/Users/danielaballesteros/Downloads/Adobe Muse Contact Form/Adobe Muse Contact Form.muse' with status:success size:819200 mod Date:Wed Jul 30 17:36:13 GMT-0400 2014 highestUID: 206
+[05:49:51.012] 02:44:32.326 | Converting from file format 264 to format 363 for file:/Users/danielaballesteros/Downloads/Adobe Muse Contact Form/Adobe Muse Contact Form.muse
+[05:51:14.703] 02:45:56.018 | Trying to open file '/Users/danielaballesteros/Downloads/Adobe Muse Contact Form 2/Adobe Muse Contact Form.muse with size:819200 mod Date:Wed Jul 30 17:36:13 GMT-0400 2014
+[05:51:14.714] 02:45:56.029 | Opening file '/Users/danielaballesteros/Downloads/Adobe Muse Contact Form 2/Adobe Muse Contact Form.muse' with status:success size:819200 mod Date:Wed Jul 30 17:36:13 GMT-0400 2014 highestUID: 206
+[05:51:18.095] 02:45:59.409 | Converting from file format 264 to format 363 for file:/Users/danielaballesteros/Downloads/Adobe Muse Contact Form 2/Adobe Muse Contact Form.muse
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+IntervalMgr::Interval::Fire called during dispatchEvent of event commit
+[05:59:38.576] 02:54:19.891 | Beginning SaveAs of 'Website-1' to file '/Volumes/DATA/BALCH WEB.muse' highest UID:2920
+[05:59:43.611] 02:54:24.925 | SaveAs complete for file '/Volumes/DATA/BALCH WEB.muse' file size:7307264 mod Date:Thu Nov 17 02:54:24 GMT-0500 2016 highest UID:2920
+[06:02:49.094] 02:57:30.409 | Beginning Save for file '/Volumes/DATA/BALCH WEB.muse' highest UID:2968
+[06:02:51.992] 02:57:33.307 | Save complete for file '/Volumes/DATA/BALCH WEB.muse' file size:7340032 mod Date:Thu Nov 17 02:57:33 GMT-0500 2016 highest UID:2968
+[06:15:06.890] 03:09:48.204 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[06:15:06.900] 03:09:48.214 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[06:15:06.900] 03:09:48.214 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[06:15:08.005] 03:09:49.319 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[06:15:08.005] 03:09:49.319 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[06:15:08.005] 03:09:49.319 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+IntervalMgr::Interval::Fire called during dispatchEvent of event DataBaseEvent::CLOSE_COMPLETE
+IntervalMgr::Interval::Fire called during dispatchEvent of event DataBaseEvent::CLOSE_COMPLETE
+[09:53:59.821] 06:48:41.136 | quitWithUI:Quitting Application. Called by: 
+[09:53:59.831] 06:48:41.146 | Quitting Application after 592.4 minutes. Called by: MuseApp/quitAfterProcessesComplete+closeOne+SiteFacade$/internalCloseAllSitesWithUI+SiteFacade$/attemptCloseAllSitesWithUI+MuseApp/quitWithUI
+[09:54:08.923] Logging shutdown normally
+
+==========
+Logging ended at: Thu Nov 17 06:48:51 2016
+
+Logging in build 2017.0.0.149 started at: Thu Nov 17 17:35:46 2016
+========================================
+[00:01:26.112] 17:37:12.716 | Trying to open file '/Users/danielaballesteros/Creative Cloud Files/BALCH WEB.muse with size:7340032 mod Date:Thu Nov 17 02:57:33 GMT-0500 2016
+[00:01:26.114] 17:37:12.719 | Opening file '/Users/danielaballesteros/Creative Cloud Files/BALCH WEB.muse' with status:success size:7340032 mod Date:Thu Nov 17 02:57:33 GMT-0500 2016 highestUID: 2968
+[00:01:30.689] 17:37:17.294 | deleteHiddenBreakpointsOnMasters deleted 1 hidden breakpoints on masters
+[02:22:32.784] 19:58:19.388 | Beginning drag
+[02:22:32.817] 19:58:19.421 | Already dragging, so cannot restart drag
+[02:22:38.791] 19:58:25.396 | Drag complete
+[02:22:42.065] 19:58:28.669 | Beginning drag
+[02:22:42.071] 19:58:28.676 | Already dragging, so cannot restart drag
+[02:22:44.272] 19:58:30.876 | Drag complete
+[02:22:46.449] 19:58:33.053 | Beginning drag
+[02:22:46.456] 19:58:33.060 | Already dragging, so cannot restart drag
+[02:22:47.389] 19:58:33.993 | Drag complete
+[02:28:49.376] 20:04:35.981 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[02:28:49.387] 20:04:35.991 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[02:28:49.387] 20:04:35.991 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[02:28:50.427] 20:04:37.031 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[02:28:50.427] 20:04:37.031 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[02:28:50.427] 20:04:37.031 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[02:30:58.008] 20:06:44.612 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[02:30:58.012] 20:06:44.617 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[02:30:58.012] 20:06:44.617 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[02:30:59.046] 20:06:45.651 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[02:30:59.047] 20:06:45.651 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[02:30:59.047] 20:06:45.651 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[02:32:27.634] 20:08:14.239 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[02:32:27.647] 20:08:14.251 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[02:32:27.647] 20:08:14.251 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[02:32:28.727] 20:08:15.332 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[02:32:28.728] 20:08:15.332 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[02:32:28.728] 20:08:15.332 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[02:38:56.400] 20:14:43.005 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[02:38:56.407] 20:14:43.012 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[02:38:56.407] 20:14:43.012 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[02:38:57.383] 20:14:43.988 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[02:38:57.383] 20:14:43.988 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[02:38:57.383] 20:14:43.988 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[02:40:14.183] 20:16:00.788 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[02:40:14.189] 20:16:00.794 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[02:40:14.189] 20:16:00.794 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[02:40:15.190] 20:16:01.794 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[02:40:15.190] 20:16:01.794 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[02:40:15.190] 20:16:01.794 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[02:44:39.457] 20:20:26.061 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[02:44:39.467] 20:20:26.071 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[02:44:39.467] 20:20:26.071 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[02:44:40.339] 20:20:26.944 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[02:44:40.340] 20:20:26.944 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[02:44:40.340] 20:20:26.944 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[03:03:55.118] 20:39:41.722 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[03:03:55.130] 20:39:41.734 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[03:03:55.130] 20:39:41.734 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[03:03:56.254] 20:39:42.859 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[03:03:56.255] 20:39:42.859 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[03:03:56.255] 20:39:42.859 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[03:11:37.669] 20:47:24.274 | Beginning drag
+[03:11:37.691] 20:47:24.295 | Already dragging, so cannot restart drag
+[03:11:41.876] 20:47:28.480 | Drag complete
+[03:15:05.537] 20:50:52.141 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[03:15:05.547] 20:50:52.151 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[03:15:05.547] 20:50:52.151 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[03:15:05.870] 20:50:52.474 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[03:15:05.870] 20:50:52.474 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[03:15:05.870] 20:50:52.474 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[03:18:23.382] 20:54:09.987 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[03:18:23.395] 20:54:09.999 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[03:18:23.395] 20:54:09.999 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[03:18:23.692] 20:54:10.296 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[03:18:23.692] 20:54:10.296 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[03:18:23.692] 20:54:10.296 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[03:20:06.560] 20:55:53.164 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[03:20:06.560] 20:55:53.164 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[03:20:06.560] 20:55:53.164 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[03:20:06.849] 20:55:53.454 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[03:20:06.849] 20:55:53.454 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[03:20:06.849] 20:55:53.454 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[03:50:10.149] 21:25:56.753 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[03:50:10.160] 21:25:56.764 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[03:50:10.160] 21:25:56.764 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[03:56:06.371] 21:31:52.975 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[03:56:06.371] 21:31:52.976 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[03:56:06.371] 21:31:52.976 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[05:18:46.414] 22:54:33.018 | Converting from file format 310 to format 363 for file:/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/MuseFree.com 5/Clip-Path Animation.muse
+[05:18:55.109] 22:54:41.714 | Beginning Save for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/MuseFree.com 5/Clip-Path Animation.muse' highest UID:91
+[05:18:58.156] 22:54:44.760 | Save complete for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/MuseFree.com 5/Clip-Path Animation.muse' file size:458752 mod Date:Thu Nov 17 22:54:44 GMT-0500 2016 highest UID:91
+[05:22:02.643] 22:57:49.247 | Converting from file format 310 to format 363 for file:/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/MuseFree.com 6/Clip-Path Animation.muse
+[05:22:11.311] 22:57:57.916 | Beginning Save for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/MuseFree.com 6/Clip-Path Animation.muse' highest UID:91
+[05:22:14.373] 22:58:00.977 | Save complete for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/MuseFree.com 6/Clip-Path Animation.muse' file size:458752 mod Date:Thu Nov 17 22:58:00 GMT-0500 2016 highest UID:91
+[05:22:38.177] 22:58:24.781 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[05:22:52.806] 22:58:39.410 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[05:23:09.735] 22:58:56.339 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[05:27:20.479] 23:03:07.084 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[05:28:21.740] 23:04:08.345 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[05:28:21.994] 23:04:08.599 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[05:28:22.320] 23:04:08.925 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[05:28:29.460] 23:04:16.064 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[05:28:29.724] 23:04:16.328 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[05:28:30.171] 23:04:16.775 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[05:28:30.419] 23:04:17.024 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[05:28:30.593] 23:04:17.197 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[05:28:30.789] 23:04:17.394 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[05:28:30.955] 23:04:17.560 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[05:28:31.486] 23:04:18.091 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[05:28:35.286] 23:04:21.891 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[05:28:35.520] 23:04:22.124 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[05:28:35.695] 23:04:22.300 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[05:28:36.143] 23:04:22.747 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[05:29:11.675] 23:04:58.280 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[05:29:11.675] 23:04:58.280 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[05:29:11.675] 23:04:58.280 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[05:29:11.715] 23:04:58.319 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[05:33:11.313] 23:08:57.917 | Trying to open file '/Users/danielaballesteros/Downloads/portfolio widget/portfolio widget.muse with size:7208960 mod Date:Sat Aug 23 14:26:59 GMT-0400 2014
+[05:33:11.321] 23:08:57.925 | Opening file '/Users/danielaballesteros/Downloads/portfolio widget/portfolio widget.muse' with status:success size:7208960 mod Date:Sat Aug 23 14:26:59 GMT-0400 2014 highestUID: 1810
+[05:33:15.822] 23:09:02.427 | Converting from file format 276 to format 363 for file:/Users/danielaballesteros/Downloads/portfolio widget/portfolio widget.muse
+[06:03:11.968] 23:38:58.572 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[06:03:11.978] 23:38:58.582 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[06:03:11.978] 23:38:58.583 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[06:27:54.416] 00:03:41.021 | Beginning drag
+[06:27:54.441] 00:03:41.045 | Already dragging, so cannot restart drag
+[06:27:55.985] 00:03:42.590 | Drag complete
+[06:28:16.205] 00:04:02.809 | Beginning drag
+[06:28:16.212] 00:04:02.817 | Already dragging, so cannot restart drag
+[06:28:22.270] 00:04:08.875 | Drag complete
+[06:28:25.986] 00:04:12.591 | Beginning drag
+[06:28:25.995] 00:04:12.600 | Already dragging, so cannot restart drag
+[06:28:28.631] 00:04:15.236 | Drag complete
+[06:29:34.102] 00:05:20.707 | Beginning drag
+[06:29:34.127] 00:05:20.731 | Already dragging, so cannot restart drag
+[06:29:39.751] 00:05:26.356 | Drag complete
+[06:29:51.602] 00:05:38.206 | Beginning drag
+[06:29:51.623] 00:05:38.227 | Already dragging, so cannot restart drag
+[06:29:56.549] 00:05:43.153 | Drag complete
+[06:30:16.446] 00:06:03.051 | Beginning drag
+[06:30:16.457] 00:06:03.061 | Already dragging, so cannot restart drag
+[06:30:20.228] 00:06:06.833 | Drag complete
+[06:30:20.532] 00:06:07.137 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[06:30:20.533] 00:06:07.137 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[06:30:20.533] 00:06:07.137 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[06:34:39.367] 00:10:25.972 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[06:34:39.367] 00:10:25.972 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[06:34:39.367] 00:10:25.972 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[06:36:48.767] 00:12:35.371 | Beginning Save for file '/Users/danielaballesteros/Creative Cloud Files/BALCH WEB.muse' highest UID:3754
+[06:36:53.270] 00:12:39.875 | Save complete for file '/Users/danielaballesteros/Creative Cloud Files/BALCH WEB.muse' file size:8355840 mod Date:Fri Nov 18 00:12:39 GMT-0500 2016 highest UID:3754
+[14:47:54.518] 08:23:41.122 | Trying to open file '/Users/danielaballesteros/Creative Cloud Files/BALCH WEB.muse with size:8355840 mod Date:Fri Nov 18 00:12:39 GMT-0500 2016
+[14:47:54.534] 08:23:41.139 | Opening file '/Users/danielaballesteros/Creative Cloud Files/BALCH WEB.muse' with status:success size:8355840 mod Date:Fri Nov 18 00:12:39 GMT-0500 2016 highestUID: 3754
+[14:47:59.684] 08:23:46.288 | deleteHiddenBreakpointsOnMasters deleted 1 hidden breakpoints on masters
+[14:49:44.876] 08:25:31.480 | Trying to open file '/Users/danielaballesteros/Downloads/Flat Web Form/Flat Web Form.muse with size:884736 mod Date:Wed Jul 30 17:45:55 GMT-0400 2014
+[14:49:44.889] 08:25:31.493 | Opening file '/Users/danielaballesteros/Downloads/Flat Web Form/Flat Web Form.muse' with status:success size:884736 mod Date:Wed Jul 30 17:45:55 GMT-0400 2014 highestUID: 123
+[14:49:52.926] 08:25:39.530 | Converting from file format 264 to format 363 for file:/Users/danielaballesteros/Downloads/Flat Web Form/Flat Web Form.muse
+[15:42:15.321] 09:18:01.926 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[15:42:15.434] 09:18:02.038 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[15:42:15.434] 09:18:02.038 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[15:43:21.926] 09:19:08.530 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[15:43:21.926] 09:19:08.530 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[15:43:21.926] 09:19:08.531 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[15:43:37.439] 09:19:24.044 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[15:43:37.440] 09:19:24.044 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[15:43:37.440] 09:19:24.044 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[15:44:18.087] 09:20:04.691 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[15:44:18.087] 09:20:04.691 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[15:44:18.087] 09:20:04.691 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[15:45:34.440] 09:21:21.044 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[15:45:34.473] 09:21:21.077 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[15:45:34.473] 09:21:21.078 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[15:47:16.176] 09:23:02.781 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[15:47:16.185] 09:23:02.789 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[15:47:16.185] 09:23:02.789 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[15:48:35.587] 09:24:22.191 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[15:48:35.592] 09:24:22.197 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[15:48:35.592] 09:24:22.197 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[15:49:32.490] 09:25:19.094 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[15:49:32.512] 09:25:19.116 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[15:49:32.512] 09:25:19.116 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[15:50:52.000] 09:26:38.604 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[15:50:52.011] 09:26:38.615 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[15:50:52.011] 09:26:38.616 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[15:51:29.660] 09:27:16.264 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[15:51:29.668] 09:27:16.273 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[15:51:29.669] 09:27:16.273 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[15:58:41.561] 09:34:28.166 | Beginning drag
+[15:58:41.589] 09:34:28.193 | Already dragging, so cannot restart drag
+[15:58:49.467] 09:34:36.072 | Drag complete
+[15:59:03.727] 09:34:50.331 | Beginning drag
+[15:59:03.736] 09:34:50.341 | Already dragging, so cannot restart drag
+[15:59:04.965] 09:34:51.569 | Drag complete
+[15:59:22.515] 09:35:09.119 | Beginning drag
+[15:59:22.523] 09:35:09.127 | Already dragging, so cannot restart drag
+[15:59:24.346] 09:35:10.951 | Drag complete
+[15:59:31.694] 09:35:18.298 | Beginning drag
+[15:59:31.706] 09:35:18.311 | Already dragging, so cannot restart drag
+[15:59:35.695] 09:35:22.299 | Drag complete
+[15:59:41.959] 09:35:28.564 | Beginning drag
+[15:59:41.966] 09:35:28.570 | Already dragging, so cannot restart drag
+[15:59:43.244] 09:35:29.848 | Drag complete
+[15:59:45.420] 09:35:32.024 | Beginning drag
+[15:59:45.427] 09:35:32.031 | Already dragging, so cannot restart drag
+[15:59:46.247] 09:35:32.851 | Drag complete
+[15:59:48.929] 09:35:35.534 | Beginning drag
+[15:59:48.941] 09:35:35.545 | Already dragging, so cannot restart drag
+[15:59:49.817] 09:35:36.421 | Drag complete
+[16:00:02.007] 09:35:48.611 | Beginning drag
+[16:00:02.025] 09:35:48.629 | Already dragging, so cannot restart drag
+[16:00:04.643] 09:35:51.248 | Drag complete
+[16:08:10.375] 09:43:56.980 | Converting from file format 352 to format 363 for file:/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/MuseFree.com 7/Font Awesome FREE.muse
+[16:08:11.945] 09:43:58.550 | Beginning Save for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/MuseFree.com 7/Font Awesome FREE.muse' highest UID:98
+[16:08:14.382] 09:44:00.986 | Save complete for file '/Users/danielaballesteros/Library/Preferences/Adobe/Adobe Muse CC Libraries/2017.0/MuseFree.com 7/Font Awesome FREE.muse' file size:425984 mod Date:Fri Nov 18 09:44:00 GMT-0500 2016 highest UID:98
+[16:10:53.914] 09:46:40.519 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[16:10:54.218] 09:46:40.822 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[16:10:57.720] 09:46:44.325 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[16:10:57.904] 09:46:44.508 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[16:10:58.187] 09:46:44.791 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[16:10:58.453] 09:46:45.058 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[16:10:58.738] 09:46:45.343 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[16:10:58.948] 09:46:45.553 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[16:10:59.154] 09:46:45.758 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[16:10:59.455] 09:46:46.060 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[16:10:59.688] 09:46:46.293 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[16:10:59.904] 09:46:46.509 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[16:11:00.121] 09:46:46.725 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[17:04:28.352] 10:40:14.956 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[17:04:28.357] 10:40:14.961 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[17:04:28.357] 10:40:14.961 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[17:05:45.629] 10:41:32.234 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[17:05:45.629] 10:41:32.234 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[17:05:45.629] 10:41:32.234 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[17:42:43.285] 11:18:29.890 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[17:42:43.298] 11:18:29.902 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[17:42:43.298] 11:18:29.903 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[17:44:11.097] 11:19:57.701 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[17:44:11.107] 11:19:57.712 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[17:44:11.107] 11:19:57.712 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[17:51:28.129] 11:27:14.733 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[17:51:28.136] 11:27:14.740 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[17:51:28.136] 11:27:14.740 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[17:51:56.823] 11:27:43.428 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[17:51:56.856] 11:27:43.460 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[17:51:56.856] 11:27:43.460 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[17:53:35.830] 11:29:22.434 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[17:53:35.845] 11:29:22.449 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[17:53:35.845] 11:29:22.449 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[18:02:35.699] 11:38:22.303 | Warning: Failed to find {param_width} in HTML string to replace in widget:Tiled Slideshow
+[18:02:35.710] 11:38:22.315 | Warning: Failed to find {param_height} in HTML string to replace in widget:Tiled Slideshow
+[18:02:35.711] 11:38:22.315 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Tiled Slideshow
+[18:02:45.226] 11:38:31.830 | Warning: Failed to find {param_height} in HTML string to replace in widget:Clip-Path Animation
+[18:03:03.756] 11:38:50.360 | Warning: Failed to find {param_width} in HTML string to replace in widget:Tiled Slideshow
+[18:03:03.756] 11:38:50.361 | Warning: Failed to find {param_height} in HTML string to replace in widget:Tiled Slideshow
+[18:03:03.756] 11:38:50.361 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Tiled Slideshow
+[18:03:12.320] 11:38:58.924 | Warning: Failed to find {param_width} in HTML string to replace in widget:Tiled Slideshow
+[18:03:12.320] 11:38:58.924 | Warning: Failed to find {param_height} in HTML string to replace in widget:Tiled Slideshow
+[18:03:12.320] 11:38:58.925 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Tiled Slideshow
+[18:03:36.494] 11:39:23.098 | Warning: Failed to find {param_width} in HTML string to replace in widget:Tiled Slideshow
+[18:03:36.494] 11:39:23.098 | Warning: Failed to find {param_height} in HTML string to replace in widget:Tiled Slideshow
+[18:03:36.494] 11:39:23.099 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Tiled Slideshow
+[18:03:46.322] 11:39:32.926 | Warning: Failed to find {param_width} in HTML string to replace in widget:Tiled Slideshow
+[18:03:46.322] 11:39:32.927 | Warning: Failed to find {param_height} in HTML string to replace in widget:Tiled Slideshow
+[18:03:46.322] 11:39:32.927 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Tiled Slideshow
+[18:04:13.278] 11:39:59.882 | Beginning drag
+[18:04:13.286] 11:39:59.890 | Already dragging, so cannot restart drag
+[18:04:14.278] 11:40:00.882 | Drag complete
+[18:04:20.777] 11:40:07.381 | Beginning drag
+[18:04:20.784] 11:40:07.389 | Already dragging, so cannot restart drag
+[18:04:22.685] 11:40:09.289 | Drag complete
+[18:26:26.681] 12:02:13.286 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[18:26:26.687] 12:02:13.292 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[18:26:26.687] 12:02:13.292 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[18:27:39.900] 12:03:26.504 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[18:27:39.900] 12:03:26.504 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[18:27:39.900] 12:03:26.504 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[18:30:00.172] 12:05:46.776 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[18:30:00.180] 12:05:46.784 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[18:30:00.180] 12:05:46.784 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[18:30:09.192] 12:05:55.796 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[18:30:09.192] 12:05:55.797 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[18:30:09.192] 12:05:55.797 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[18:33:54.491] 12:09:41.095 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[18:33:54.501] 12:09:41.106 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[18:33:54.501] 12:09:41.106 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[18:39:34.587] 12:15:21.191 | Beginning drag
+[18:39:34.602] 12:15:21.206 | Already dragging, so cannot restart drag
+[18:39:36.594] 12:15:23.199 | Drag complete
+[18:42:44.026] 12:18:30.630 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[18:42:44.032] 12:18:30.636 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[18:42:44.032] 12:18:30.636 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[18:44:03.485] 12:19:50.089 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[18:44:03.498] 12:19:50.102 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[18:44:03.506] 12:19:50.111 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[18:46:00.517] 12:21:47.122 | Beginning drag
+[18:46:00.538] 12:21:47.142 | Already dragging, so cannot restart drag
+[18:46:03.022] 12:21:49.627 | Drag complete
+[18:47:47.387] 12:23:33.992 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[18:47:47.401] 12:23:34.005 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[18:47:47.401] 12:23:34.005 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[18:53:16.039] 12:29:02.643 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[18:53:16.100] 12:29:02.704 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[18:53:16.100] 12:29:02.704 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[19:08:38.411] 12:44:25.015 | Warning: Failed to find {param_width} in HTML string to replace in widget:Mouse Scroll Animation
+[19:08:38.417] 12:44:25.021 | Warning: Failed to find {param_height} in HTML string to replace in widget:Mouse Scroll Animation
+[19:08:38.417] 12:44:25.021 | Warning: Failed to find {param_itemUID} in HTML string to replace in widget:Mouse Scroll Animation
+[19:13:01.802] 12:48:48.407 | Beginning drag
+[19:13:01.813] 12:48:48.417 | Already dragging, so cannot restart drag
+[19:13:06.397] 12:48:53.002 | Drag complete
+[19:13:32.116] 12:49:18.721 | Beginning drag
+[19:13:32.137] 12:49:18.741 | Already dragging, so cannot restart drag
+[19:13:36.254] 12:49:22.858 | Drag complete
+[19:58:12.591] 13:33:59.196 | Failure during Import of: file:///Volumes/DATA/PORTFOLIO/LIL%20BLOOMERS/POSTAL.psd
+[19:58:12.751] 13:33:59.356 | Cannot place file named 'POSTAL.psd'.
+
+Unsupported Color Space. Re-Save Image As RGB or Grayscale.
+[19:58:40.507] 13:34:27.111 | Failure during Import of: file:///Volumes/DATA/PORTFOLIO/LIL%20BLOOMERS/POSTAL.psd
+[19:58:40.507] 13:34:27.111 | Cannot place file named 'POSTAL.psd'.
+
+Unsupported Color Space. Re-Save Image As RGB or Grayscale.
+[19:58:59.090] 13:34:45.694 | Failure during Import of: file:///Volumes/DATA/PORTFOLIO/LIL%20BLOOMERS/tags.psd
+[19:58:59.090] 13:34:45.695 | Cannot place file named 'tags.psd'.
+
+Unsupported Color Space. Re-Save Image As RGB or Grayscale.
+[19:59:46.381] 13:35:32.986 | Failure during Import of: file:///Volumes/DATA/PORTFOLIO/LIL%20BLOOMERS/tags.psd
+[19:59:46.395] 13:35:32.999 | Cannot place file named 'tags.psd'.
+
+Unsupported Color Space. Re-Save Image As RGB or Grayscale.
+[20:07:53.319] 13:43:39.924 | Beginning drag
+[20:07:53.341] 13:43:39.946 | Already dragging, so cannot restart drag
+[20:08:00.229] 13:43:46.834 | Drag complete
+[20:08:47.419] 13:44:34.024 | HTMLExport BALCH WEB(1 pages) to 'www.balchcreative.com' completed with 1 warnings.
+[20:08:47.436] 13:44:34.040 | 91027:Form Home Form is configured with an email address of balchcreative@gmail.com, which does not match the server name balchcreative.com. Some hosting providers refuse to send emails from email addresses on different hosts. If submitting your form does not send email as expected, change the first email address listed in your Muse form to an address on balchcreative.com and try again.
+[20:11:32.209] 13:47:18.813 | HTMLExport BALCH WEB(1 pages) to 'www.balchcreative.com' completed with 0 warnings.
